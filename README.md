@@ -1,5 +1,5 @@
 # eeg-to-text-enhanced
-
+### **Current Architecture**
 One of the first notable works in this domain, proposed an integration of an additional EEG encoder to align pre-trained models, specifically BART, with EEG signals for the task of EEG-to-Text translation. Their approach marked a significant milestone by leveraging BART, a powerful language model, for better representation of textual outputs. This architecture is later developed by many others, leveraging the idea to better performance and prediction.
 
 ![Alt text](eeg-to-text.png)
